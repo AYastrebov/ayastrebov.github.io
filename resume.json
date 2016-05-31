@@ -80,6 +80,28 @@
         "Chefs Feed - iOS app, the first and only chef-powered restaurant guide",
         "Athens - iOS iPad app for the University of Phoenix"
       ]
+    },
+    {
+      "company": "Luxoft",
+      "position": "Lead iOS Software Engineer",
+      "website": "http://www.luxoft.com/",
+      "startDate": "2015-06-24",
+      "endDate": "2016-04-28",
+      "summary": "(Saint-Petersburg, Russia)",
+      "highlights": [
+        "Tinkoff Penalties - iOS app for checking and paying for car penalties",
+        "Tinkoff Business - iOS bank client for Tinkoff PKO"
+      ]
+    },
+    {
+      "company": "Mail.ru",
+      "position": "iOS Software Engineer",
+      "website": "http://www.mail.ru/",
+      "startDate": "2016-05-16",
+      "summary": "(Saint-Petersburg, Russia)",
+      "highlights": [
+        "Odnoklassniki"
+      ]
     }
   ],
   "volunteer": [],

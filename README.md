@@ -60,12 +60,20 @@ iOS app developer (including iPhone, iPad, iPod Touch) with five year experience
 (Saint-Petersburg, Russia)
 
 ### Lead iOS Software Engineer, [Luxoft](http://www.luxoft.com/)
-##### 2015-06-24
+##### 2015-06-24 - 2016-04-28
 
 * Tinkoff Penalties - iOS app for checking and paying for car penalties
 * Tinkoff Business - iOS bank client for Tinkoff PKO
 
 (Saint-Petersburg, Russia)
+
+### iOS Software Engineer, [Mail.ru](http://mail.ru/)
+##### 2016-05-16
+
+* Odnoklassniki
+
+(Saint-Petersburg, Russia)
+
 
 
 
