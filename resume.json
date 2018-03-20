@@ -6,7 +6,7 @@
     "email": "me@ayastrebov.com",
     "phone": "",
     "website": "",
-    "summary": "iOS app developer (including iPhone, iPad, iPod Touch) with five year experience in mobile application design and development. Used to develop both, mobile games and apps with complex business-logic. My goal is to create mobile software with high-performance and easily maintainable codebase on top of clean and useable UI. I am constantly learning new technologies and always try to improve my skills in this rapidly changing industry. I've also contributed in some open-source projects, and stay in touch with other interesting community projects.",
+    "summary": "iOS app developer (including iPhone, iPad, iWatch) with eight year experience in mobile application design and development. Used to develop both, mobile games and apps with complex business-logic. My goal is to create mobile software with high-performance and easily maintainable codebase on top of clean and useable UI. I am constantly learning new technologies and always try to improve my skills in this rapidly changing industry. I've also contributed in some open-source projects, and stay in touch with other interesting community projects.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -98,6 +98,7 @@
       "position": "iOS Software Engineer",
       "website": "http://www.mail.ru/",
       "startDate": "2016-05-16",
+      "endDate": "",
       "summary": "(Saint-Petersburg, Russia)",
       "highlights": [
         "Odnoklassniki"
@@ -124,11 +125,15 @@
       "level": "",
       "keywords": [
         "Objective-C",
+        "Swift",
+        "ReactiveCocoa",
+        "RXSwift",
         "JSON",
+        "Realm",
         "Core Data",
         "Cocoapods",
-        "OAuth",
-        "Client - Server"
+        "Carthage",
+        "OAuth"
       ]
     },
     {
@@ -137,7 +142,8 @@
       "keywords": [
         "OS X",
         "iOS",
-        "Linux"
+        "Linux",
+        "Watch OS"
       ]
     },
     {
@@ -151,7 +157,9 @@
         "Stash",
         "Jira",
         "Team City",
-        "Github"
+        "Github",
+        "Fastlane",
+        "Travis CI"
       ]
     },
     {
