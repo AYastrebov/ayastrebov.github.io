@@ -1,0 +1,101 @@
+/* #*/ export const PERSON = `
+name:
+  first: Andrey
+  middle:
+  last: Yastrebov
+about: Senior iOS Software Engineer with more than 10 years of experience creating complex, user-focused software applications at the highest level of quality and efficiency. Started developing since iOS 3.0 in Objective-C and recently switched to Swift.
+position: iOS Software Engineer
+
+birth:
+  year: 1988
+  location: Saint-Petersburg, Russia
+
+experience:
+- company: Mail.ru (Odnoklassniki)
+  position: iOS Software Engineer
+  timeperiod: since May 2016
+  description: Member of Odnoklassniki iOS core team.
+  website: https://ok.ru
+
+- company: Luxoft
+  position: Lead iOS Software Engineer
+  timeperiod: June 2015 - April 2016
+  description: Developing iOS apps for Tinkoff bank.
+  website: https://luxoft.com
+
+- company: Agile Fusion Corporation
+  position: iOS Software Engineer
+  timeperiod: July 2012 - June 2015
+  description: Developing iOS apps for U.S. customers.
+  website: http://www.agilefusion.com/
+
+- company: FoodMap LLC
+  position: iOS and Android Software Engineer, Co-founder
+  timeperiod: May 2011 - June 2012
+  description: iOS and Android app for spotting nearest cafes and restaurants and provides a full menu with a social integration.
+
+- company: Lanit-Tercom
+  position: iOS Software Engineer
+  timeperiod: September 2010 - May 2011
+  description: Developing iOS apps.
+  website: http://www.lanit-tercom.ru/en/homepage
+
+education:
+- degree: Specialist (Information technologies)
+  timeperiod: 2006 - 2012
+  description: Saint-Petersburg State University, Mathematics and Mechanics Faculty.
+  website: http://www.math.spbu.ru/eng
+
+# skill level goes 0 to 100
+skills:
+- name: Objective-C
+  level: 100
+- name: Swift
+  level: 95
+- name: ReactiveCocoa
+  level: 90
+- name: RxSwift
+  level: 85
+- name: Texture (AsyncDisplayKit)
+  level: 90
+- name: Core Data
+  level: 90
+- name: Autolayout
+  level: 90
+- name: VIPER
+  level: 90
+- name: MVVM
+  level: 90
+- name: REST
+  level: 80
+- name: Git
+  level: 90
+- name: Xcode
+  level: 90
+- name: Carthage
+  level: 90
+- name: Cocoapods
+  level: 90
+- name: CI/CD
+  level: 90
+knowledge: I am constantly learning new technologies and always try to improve my skills in this rapidly changing industry.
+
+contributions:
+- name: RxSwift Community
+  description: RxSwift ecosystem projects
+  url: https://github.com/RxSwiftCommunity
+
+- name: CleanArchitectureRxSwift
+  description: Example of Clean Architecture of iOS app using RxSwift
+  url: https://github.com/sergdort/CleanArchitectureRxSwift
+
+contact:
+  email: me@ayastrebov.com
+  phone: +7 (931) 221 24 12
+  city: Saint-Petersburg
+  street: Saint-Petersburg
+  website: ayastrebov.com
+  github: AYastrebov
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: en
+`
