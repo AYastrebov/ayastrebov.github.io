@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ayastrebov.github.io/static/css/main.3a3e9d5e.chunk.css",
+    "main.css": "/ayastrebov.github.io/static/css/main.d969fd84.chunk.css",
     "main.js": "/ayastrebov.github.io/static/js/main.f0e725d8.chunk.js",
     "main.js.map": "/ayastrebov.github.io/static/js/main.f0e725d8.chunk.js.map",
     "runtime-main.js": "/ayastrebov.github.io/static/js/runtime-main.33413d0e.js",
@@ -10,14 +10,14 @@
     "static/js/3.47271686.chunk.js": "/ayastrebov.github.io/static/js/3.47271686.chunk.js",
     "static/js/3.47271686.chunk.js.map": "/ayastrebov.github.io/static/js/3.47271686.chunk.js.map",
     "index.html": "/ayastrebov.github.io/index.html",
-    "static/css/main.3a3e9d5e.chunk.css.map": "/ayastrebov.github.io/static/css/main.3a3e9d5e.chunk.css.map",
+    "static/css/main.d969fd84.chunk.css.map": "/ayastrebov.github.io/static/css/main.d969fd84.chunk.css.map",
     "static/js/2.c5ff7ad3.chunk.js.LICENSE.txt": "/ayastrebov.github.io/static/js/2.c5ff7ad3.chunk.js.LICENSE.txt",
     "static/media/underconstruction.46d3faed.svg": "/ayastrebov.github.io/static/media/underconstruction.46d3faed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33413d0e.js",
     "static/js/2.c5ff7ad3.chunk.js",
-    "static/css/main.3a3e9d5e.chunk.css",
+    "static/css/main.d969fd84.chunk.css",
     "static/js/main.f0e725d8.chunk.js"
   ]
 }
